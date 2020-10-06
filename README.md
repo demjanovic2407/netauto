@@ -3,3 +3,4 @@
 "third change"
 "change added in dazzling_feature branch "
 "goobleydoo"
+"collaborator edit"
