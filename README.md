@@ -4,3 +4,4 @@
 "change added in dazzling_feature branch "
 "goobleydoo"
 "collaborator edit"
+"collaborator edit 2"
